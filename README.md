@@ -8,4 +8,4 @@ A fast, responsive, and minimalist landing page for Minecraft servers. Built wit
 - **Player-Friendly UI:** One-click clipboard IP copy and dynamic player heads via `mc-heads.net`.
 - **Modern Dark Aesthetic:** Zinc color palette with subtle ambient glows and clean typography.
 
-- Created by Craftedserverlist.net Dev Team
+- Created by https://raftedserverlist.net Dev Team
